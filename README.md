@@ -1,20 +1,19 @@
 
-## Problemas Propostos
+## Proposed Problems
 
-| #  | Problema                       | Status da Resolução      |
+| #  | Problem                       | Resolution Status      |
 |----|--------------------------------|--------------|
-| A | Competição de Códigos           | Implementada |
-| B | Pulo do Sapo                    | Implementada |
-| C | Arremesse os BigOs!             | Não Implementada |
-| D | Trocando de Mesa                | Não Implementada |
-| E | Farcos e o Xorshift             | Não Implementada |
-| F | A Vitória de Jim                | Não Implementada |
-| G | Dobrando Papel                  | Não Implementada |
-| H | Decodificação Ambígua           | Não Implementada |
-| I | Parkour                         | Não Implementada |
-| J | Estradas                        | Não Implementada |
-| K | Seguidores Impossíveis          | Não Implementada |
-
+| A | Code Competition                 | Implemented |
+| B | Frog Jump                        | Implemented |
+| C | Throw the BigOs!                 | Not implemented |
+| D | Changing Tables | Not implemented |
+| E | Farcos and the Xorshift | Not implemented |
+| F | Jim's Victory | Not implemented |
+| G | Folding Paper | Not implemented |
+| H | Ambiguous Decoding | Not implemented |
+| I | Parkour | Not implemented |
+| J | Roads | Not implemented |
+| K | Impossible Followers | Not implemented |
 
 ## Sobre a SAP
 
